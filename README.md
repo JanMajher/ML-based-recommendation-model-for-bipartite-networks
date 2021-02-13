@@ -1,6 +1,4 @@
-# Course Project, Machine Learning 2020/2021
-# Jan Majher 
-Faculty of Mathematics, Physics and Informatics, Comenius University, Bratislava, Slovakia
+# Machine Learning course project 
  
 All files in this respository were used in project presented in Project_Summary.pdf.
 
